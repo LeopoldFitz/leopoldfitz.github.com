@@ -4,6 +4,9 @@ body {
 h2 {
   color:red;
 }
+h1 {
+  color:white;
+}
 .zdj:hover {
  height:500px;
 }
