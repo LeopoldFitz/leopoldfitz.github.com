@@ -10,3 +10,6 @@ h1 {
 .zdj:hover {
  height:500px;
 }
+p {
+  background-color: white;
+}
