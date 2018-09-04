@@ -39,11 +39,7 @@ body {
     padding: 20px;
     width: 140px;
     text-align: center;
-    }
-    
-    #topbarL img
-    {
-        border-right: 2px dotted #cccccc;
+    border-right: 2px dotted #cccccc;
     }
     
     #topbarR
