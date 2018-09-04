@@ -39,7 +39,11 @@ float:left;
 padding: 20px;
 width: 140px;
 text-align: center;
-border-right: 2px dotted #cccccc;
+}
+
+img #topbarL
+{
+    border-right: 2px dotted #cccccc;
 }
 
 #topbarR
