@@ -44,7 +44,7 @@ body {
     #sidebar {
     float: left;
     width: 158px;
-    min-height: 856px;
+    min-height: 876px;
     background-color: lightgray;
     text-align: center;
     font-size: 18px;
@@ -104,4 +104,21 @@ body {
         cursor: pointer;
     }
     
+    #central
+    {
+        float: left;
+        min-width: 50px;
+        height: 25px;
+        font-size: 18px;
+        padding: 10px;
+        border-right: 2px dotted #444444;
+        opacity: 0.8;
+        background-color: #128870;
+    }
+
+    #glowna
+    {
+        background-color: #128870;
+        opacity: 0,8;
+    }
     
