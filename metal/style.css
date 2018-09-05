@@ -44,7 +44,7 @@ body {
     #sidebar {
     float: left;
     width: 158px;
-    min-height: 620px;
+    min-height: 876px;
     background-color: lightgray;
     text-align: center;
     font-size: 18px;
@@ -64,7 +64,7 @@ body {
     clear: both;
     background-color: #000000;
     color: white;
-    opacity: 0.5;
+    opacity: 8.5;
     }
     
     .option
