@@ -8,6 +8,8 @@ body {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
+    flex-direction: column;
     }
     #logo
     {
@@ -60,7 +62,6 @@ body {
     
     }
     #footer {
-    clear: both;
     background-color: #000000;
     color: white;
     opacity: 8.5;
@@ -129,5 +130,6 @@ body {
 
     .sc
     {
-     
+        display: flex;
+        flex-direction: row;
     }
