@@ -54,6 +54,7 @@ border-right: 2px dotted #666666;
 #content {
 float: left;
 width: 730px;
+padding: 40px;
 background-color: #dedede;
 min-height: 580px;
 text-align: justify;
