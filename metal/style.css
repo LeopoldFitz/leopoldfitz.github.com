@@ -8,6 +8,8 @@ body {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
+    flex-direction: column;
     }
     #logo
     {
@@ -49,7 +51,7 @@ body {
     font-size: 18px;
      padding: 20px;  
     border-right: 2px dotted #666666;
-    min-height: 600px;
+    min-height: 595px;
     }
     #content {
     float: left;
@@ -60,7 +62,6 @@ body {
     
     }
     #footer {
-    clear: both;
     background-color: #000000;
     color: white;
     opacity: 8.5;
@@ -129,5 +130,6 @@ body {
 
     .sc
     {
-        min-height: 100%;
+        display: flex;
+        flex-direction: row;
     }
