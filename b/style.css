@@ -113,6 +113,11 @@ body {
         padding: 10px;
         border-right: 2px dotted #444444;
         opacity: 0.8;
-        background-color: darkslategrey;
+        background-color: #128870;
+    }
+
+    #central
+    {
+        cursor: pointer;
     }
     
