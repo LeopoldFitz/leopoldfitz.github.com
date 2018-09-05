@@ -48,6 +48,7 @@ min-height: 620px;
 background-color: lightgray;
 text-align: center;
 font-size: 18px;
+ padding: 20px;  
 border-right: 2px dotted #666666;
 }
 #content {
