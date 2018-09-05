@@ -3,13 +3,13 @@ body {
     font-family: 'Lato', sans-serif;
     }
     
-    #container 
+    #container
     {
-    width: 1000px,
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
     }
-    #logo 
+    #logo
     {
     color: white;
     margin-top: 20px;
@@ -23,7 +23,7 @@ body {
     color: white;
     padding: 10px;
     }
-    #topbar 
+    #topbar
     {
     text-align: center;
         background-color: #128870;
@@ -37,18 +37,34 @@ body {
     {
     float:left;
     padding: 20px;
-    width: 760px;
+    width: 755px;
     font-size: 16px;
     text-align: justify;
     }
     #sidebar {
-    
+    float: left;
+    width: 158px;
+    min-height: 876px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 18px;
+     padding: 20px;  
+    border-right: 2px dotted #666666;
     }
     #content {
+    float: left;
+    width: 740px;
+    padding: 30px;
+    background-color: #dedede;
+    min-height: 600px;
+    text-align: justify;
     
     }
     #footer {
-    
+    clear: both;
+    background-color: #000000;
+    color: white;
+    opacity: 8.5;
     }
     
     .option
@@ -68,10 +84,41 @@ body {
         cursor: pointer;
         opacity: 0.8;
     }
-
-#topbar img
-{
+    
+    #topbar img
+    {
     float:left;
-     border-right: 2px dotted #cccccc;    
+        border-right: 2px dotted #cccccc;
+    }
+    
+    .optionL
+    {
+    font-size: 18px;
+    height: 25px;
+    border-bottom: 2px dotted #444444;
+    }
+    
+    .optionL:hover {
+        background-color: #f36742;
+        color: white;
+        cursor: pointer;
+    }
+    
+    #central
+    {
+        float: left;
+        min-width: 50px;
+        height: 25px;
+        font-size: 18px;
+        padding: 10px;
+        border-right: 2px dotted #444444;
+        opacity: 0.8;
+        background-color: #128870;
+    }
+
+    #glowna
+    {
+        background-color: #128870;
+        opacity: 0,8;
     }
     
