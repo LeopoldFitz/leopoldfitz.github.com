@@ -64,6 +64,7 @@ body {
     clear: both;
     background-color: #000000;
     color: white;
+    opacity: 0.5;
     }
     
     .option
