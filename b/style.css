@@ -25,7 +25,8 @@ body {
     }
     #topbar 
     {
-    background-color: #128870;
+    text-align: center;
+        background-color: #128870;
     color: white;
     margin-top: 20px;
     margin-bottom: 25px;
