@@ -6,8 +6,8 @@ body {
     #container 
     {
     width: 1000px,
-    margin-left: 50;
-    margin-right: 50;
+    margin-left: auto;
+    margin-right: auto;
     }
     #logo 
     {
@@ -42,13 +42,26 @@ body {
     text-align: justify;
     }
     #sidebar {
-    
+    float: left;
+    width: 150px;
+    min-height: 620px;
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 18px;
+    border-right: 2px dotted #666666;
     }
     #content {
-    
+    float: left;
+    padding: 40px;
+    width: 730px;
+    background-color: #dedede;
+    min-height: 580px;
+    text-align: justify;
+
     }
     #footer {
-    
+    clear: both;
     }
     
     .option
@@ -73,5 +86,20 @@ body {
 {
     float:left;
      border-right: 2px dotted #cccccc;    
+    }
+
+    .optionL
+    {
+font-size: 18px;
+height: 25px;
+padding: 10px;
+border-bottom: 2px dotted #444444;
+    }
+
+    .optionL:hover
+    {
+background-color: #f36742;
+color: white;
+cursor: pointer;
     }
     
