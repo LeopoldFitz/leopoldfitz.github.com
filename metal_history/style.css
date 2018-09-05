@@ -76,7 +76,6 @@ body {
         padding: 10px;
         border-right: 2px dotted #444444;
         opacity: 0.8;
-        text-decoration: none;
     }
     
     .option:hover
@@ -122,4 +121,8 @@ body {
         background-color: #128870;
         opacity: 0,8;
     }
+
+a {
+      text-decoration:none;
+   }
     
