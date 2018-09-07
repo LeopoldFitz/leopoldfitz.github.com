@@ -3,7 +3,7 @@ body {
     font-family: 'Lato', sans-serif;
     }
     
-    #container
+ #container
     {
     width: 1000px;
     margin-left: auto;
@@ -132,4 +132,5 @@ body {
     {
         display: flex;
         flex-direction: row;
+        border-radius: 20px;
     }
