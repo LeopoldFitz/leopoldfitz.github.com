@@ -97,6 +97,7 @@ body {
     height: 25px;
     border-bottom: 2px dotted #444444;
     color: black;
+    text-decoration: none;
     }
     
     .optionL:hover {
