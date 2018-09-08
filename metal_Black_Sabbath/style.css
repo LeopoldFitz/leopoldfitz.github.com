@@ -118,12 +118,6 @@ body {
         background-color: #128870;
     }
 
-    #why
-    {
-        background-color: #128870;
-        opacity: 0,8;
-    }
-
     a
     {
        text-decoration: none;
@@ -134,4 +128,10 @@ body {
     {
         display: flex;
         flex-direction: row;
+    }
+
+    #black
+    {
+        background-color: #f36742;
+        border-radius: 10px;
     }
