@@ -1,0 +1,136 @@
+body {
+    background-color: #404040;
+    font-family: 'Lato', sans-serif;
+    }
+    
+    #container
+    {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    }
+    #logo
+    {
+    color: white;
+    margin-top: 20px;
+    font-size: 44px;
+    letter-spacing: 3px;
+    font-weight: 900;
+    }
+    #menu {
+    background-color: #303030;
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+    }
+    #topbar
+    {
+    text-align: center;
+        background-color: #128870;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    height: 170px;
+    }
+    
+    #topbarR
+    {
+    float:left;
+    padding: 20px;
+    width: 755px;
+    font-size: 16px;
+    text-align: justify;
+    }
+    #sidebar {
+    float: left;
+    width: 158px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 18px;
+     padding: 20px;  
+    border-right: 2px dotted #666666;
+    min-height: 595px;
+    }
+    #content {
+    float: left;
+    width: 740px;
+    padding: 30px;
+    background-color: #dedede;
+    text-align: justify;
+    
+    }
+    #footer {
+    background-color: #000000;
+    color: white;
+    opacity: 8.5;
+    }
+    
+    .option
+    {
+        float: left;
+        min-width: 50px;
+        height: 25px;
+        font-size: 18px;
+        padding: 10px;
+        border-right: 2px dotted #444444;
+        opacity: 0.8;
+    }
+    
+    .option:hover
+    {
+        background-color: #000000;
+        cursor: pointer;
+        opacity: 0.8;
+    }
+    
+    #topbar img
+    {
+    float:left;
+        border-right: 2px dotted #cccccc;
+    }
+    
+    .optionL
+    {
+    font-size: 18px;
+    height: 25px;
+    border-bottom: 2px dotted #444444;
+    }
+    
+    .optionL:hover {
+        background-color: #f36742;
+        color: white;
+        cursor: pointer;
+    }
+    
+    #central
+    {
+        float: left;
+        min-width: 50px;
+        height: 25px;
+        font-size: 18px;
+        padding: 10px;
+        border-right: 2px dotted #444444;
+        opacity: 0.8;
+        background-color: #128870;
+    }
+
+    #glowna
+    {
+        background-color: #128870;
+        opacity: 0,8;
+    }
+
+    a
+    {
+       text-decoration: none;
+       color: white; 
+    }
+
+    .sc
+    {
+        display: flex;
+        flex-direction: row;
+    }
+    
