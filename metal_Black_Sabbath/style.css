@@ -136,3 +136,9 @@ body {
         background-color: #f36742;
         border-radius: 10px;
     }
+
+    .gallery
+    {
+        padding: 5px;
+        border-style: double;
+    }
