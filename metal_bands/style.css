@@ -135,3 +135,7 @@ body {
         display: flex;
         flex-direction: row;
     }
+
+.lista
+{
+    font-size: 15px;
