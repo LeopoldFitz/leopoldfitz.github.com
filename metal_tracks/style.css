@@ -3,7 +3,7 @@ body {
     font-family: 'Lato', sans-serif;
     }
     
-    #container
+ #container
     {
     width: 1000px;
     margin-left: auto;
@@ -76,6 +76,7 @@ body {
         padding: 10px;
         border-right: 2px dotted #444444;
         opacity: 0.8;
+        border-radius: 10px;
     }
     
     .option:hover
@@ -96,6 +97,7 @@ body {
     font-size: 18px;
     height: 25px;
     border-bottom: 2px dotted #444444;
+    border-radius: 10px;    
     }
     
     .optionL:hover {
@@ -116,7 +118,7 @@ body {
         background-color: #128870;
     }
 
-    #history
+    #tracks
     {
         background-color: #128870;
         opacity: 0,8;
@@ -132,5 +134,9 @@ body {
     {
         display: flex;
         flex-direction: row;
-        border-radius: 20px;
     }
+
+.lista1
+{
+    font-size: 18px;
+}
