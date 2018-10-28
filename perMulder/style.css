@@ -29,14 +29,14 @@ body {
 
 #content {
     float: left;
-    background-color: pink;
+    background-color: lightslategray;
     width: 1300px;
     border-radius: 10px;
 }
 
 #menu {
     float: left;
-    background-color: blue;
+    background-color: darkgray;
     width: 180px;
     border-radius: 10px;
     margin-right: 20px;
