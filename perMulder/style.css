@@ -54,5 +54,7 @@ body {
 .option {
     color: black;
     float: left;
+    width: 300px;
+    text-align: center;
 
 }
