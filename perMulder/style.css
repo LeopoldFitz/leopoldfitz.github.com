@@ -19,7 +19,7 @@ body {
 }
 
 #topbar {
-    background-color: #128870;
+    /*background-color: #128870; */
     width: 1500px;
     /*height: 50px;*/
     margin-bottom: 15px;
@@ -28,6 +28,7 @@ body {
 }
 
 .option {
+    background-color: #128870;
     color: black;
     float: left;
     width: 270px;
