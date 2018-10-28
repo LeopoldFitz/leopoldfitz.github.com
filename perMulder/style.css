@@ -14,7 +14,7 @@ body {
 }
 
 #container {
-    width: 1000px;
+    width: 1500px;
     margin-left: auto;
     margin-right: auto;
     height: 100%;
@@ -23,4 +23,5 @@ body {
 #topbar {
     background-color: #128870;
     height: 200px;
+    width: 1000px;
 }
