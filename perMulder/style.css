@@ -33,7 +33,8 @@ body {
     width: 294px;
     text-align: center;
     margin-top: 18px;
-    border-right: 2px dotted gray; 
+    border-right: 2px dotted gray;
+    padding: 15px;
 }
 
 .option:hover {
