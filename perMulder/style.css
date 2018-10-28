@@ -30,11 +30,11 @@ body {
 .option {
     color: black;
     float: left;
-    width: 280px;
+    width: 270px;
     text-align: center;
     margin-top: 18px;
     border-right: 2px dotted gray;
-    padding: 15px;
+    padding: 12px;
 }
 
 .option:hover {
