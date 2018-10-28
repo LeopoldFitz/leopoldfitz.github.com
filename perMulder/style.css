@@ -17,7 +17,7 @@ body {
     width: 1500px;
     margin-left: auto;
     margin-right: auto;
-    padding: 100px;
+    padding: 70px;
 }
 
 #topbar {
@@ -36,4 +36,5 @@ body {
     float: left;
     background-color: blue;
     width: 200px;
+    height: 100%;
 }
