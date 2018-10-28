@@ -23,6 +23,7 @@ body {
     background-color: #128870;
     width: 1500px;
     height: 100px;
+    padding: 10px;
 }
 
 #content {
