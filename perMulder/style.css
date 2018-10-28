@@ -30,10 +30,16 @@ body {
 .option {
     color: black;
     float: left;
-    width: 294px;
+    width: 300px;
     text-align: center;
     margin-top: 18px;
     border-right: 2px dotted gray; 
+}
+
+.option:hover {
+  cursor: pointer; 
+  background-color: darkgray;
+  opacity: 0.8; 
 }
 
 #content {
