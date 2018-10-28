@@ -29,9 +29,11 @@ body {
 #content {
     float: left;
     background-color: pink;
+    width: 500px;
 }
 
 #menuR {
     float: left;
     background-color: yellow;
+    width: 500px;
 }
