@@ -1,3 +1,10 @@
 .grid-container {
     display: grid;
+    border: 1px solid red;
+    grid-template-columns:
+}
+
+.item {
+ margin: 5px;
+ border: 1px solid black;
 }
