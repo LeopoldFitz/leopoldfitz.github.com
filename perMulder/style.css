@@ -30,11 +30,12 @@ body {
     float: left;
     background-color: pink;
     width: 1300px;
+    height: "x"px;
 }
 
 #menuR {
     float: left;
     background-color: blue;
     width: 200px;
-    height: 100%;
+    height: "x"px;
 }
