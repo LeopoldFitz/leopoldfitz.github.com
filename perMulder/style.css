@@ -7,9 +7,9 @@ body {
 
 .hello {
     text-align: center;
-    font-size: 30px;
+    font-size: 60px;
     margin-top: 30px;
     margin-bottom: 15px;
-    text-decoration: overline;
+    text-decoration: underline;
 }
 
