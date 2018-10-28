@@ -3,7 +3,8 @@ body{ font-family: sans-serif;}
 .grid-container {
     border: 1px solid red;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 200px 100px 50px;
+    grid-template-rows: 100px 200px;
 }
 
 .item {
