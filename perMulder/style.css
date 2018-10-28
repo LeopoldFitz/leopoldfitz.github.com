@@ -45,7 +45,8 @@ body {
     clear: both;
     height: 25px;
     background-color: black;
-    margin-top: 15px;
+    margin-top: 25px;
     border-radius: 10px;
     width: 1500px;
+    text-allign: center;
 }
