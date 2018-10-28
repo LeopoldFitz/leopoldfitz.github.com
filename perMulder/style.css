@@ -14,14 +14,15 @@ body {
 }
 
 #container {
-    width: 1500px;
+    width: 100px;
     margin-left: auto;
     margin-right: auto;
     height: 100%;
+    padding: 20px;
 }
 
 #topbar {
     background-color: #128870;
-    height: 200px;
+    height: 100px;
     width: 1000px;
 }
