@@ -31,6 +31,7 @@ body {
     background-color: lightslategray;
     width: 1300px;
     border-radius: 10px;
+    margin-bottom: 15px;
 }
 
 #menu {
@@ -39,6 +40,7 @@ body {
     width: 180px;
     border-radius: 10px;
     margin-right: 20px;
+    margin-bottom: 15px;
 }
 
 #footer {
