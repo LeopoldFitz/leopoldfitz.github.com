@@ -34,9 +34,10 @@ body {
     border-radius: 10px;
 }
 
-#menuR {
+#menu {
     float: left;
     background-color: blue;
-    width: 200px;
+    width: 180px;
     border-radius: 10px;
+    margin-left: 20px;
 }
