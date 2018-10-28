@@ -14,10 +14,9 @@ body {
 }
 
 #container {
-    width: 100px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
-    height: 100%;
     padding: 20px;
 }
 
