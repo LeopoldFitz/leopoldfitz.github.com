@@ -23,7 +23,7 @@ body {
 #topbar {
     background-color: #128870;
     width: 1500px;
-    height: 200px;
+    height: 100px;
 }
 
 #content {
@@ -34,6 +34,6 @@ body {
 
 #menuR {
     float: left;
-    background-color: yellow;
+    background-color: blue;
     width: 200px;
 }
