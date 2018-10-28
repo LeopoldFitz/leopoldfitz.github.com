@@ -25,3 +25,13 @@ body {
     height: 100px;
     width: 1000px;
 }
+
+#content {
+    float: left;
+    background-color: pink;
+}
+
+#menuR {
+    float: left;
+    background-color: yellow;
+}
