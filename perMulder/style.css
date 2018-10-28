@@ -22,17 +22,20 @@ body {
     /*background-color: #128870; */
     width: 1500px;
     /*height: 50px;*/
+    background-color: #128870;
+    height: 50px;
+    
     margin-bottom: 15px;
     border-radius: 20px;
     text-align: center;
 }
 
 .option {
-    background-color: #128870;
+    /* background-color: #128870; */
     color: black;
     float: left;
     width: 270px;
-    height: 50px;
+    /* height: 50px; */
     text-align: center;
     margin-top: 18px;
     border-right: 2px dotted gray;
