@@ -1,7 +1,7 @@
 .grid-container {
     display: grid;
     border: 1px solid red;
-    grid-template-columns:
+    grid-template-columns: 200px 100px 50px;
 }
 
 .item {
