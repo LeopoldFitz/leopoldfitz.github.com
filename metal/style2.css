@@ -3,7 +3,7 @@ body {
     font-family: 'Lato', sans-serif;
     }
     
-    #container
+ #container
     {
     width: 1000px;
     margin-left: auto;
@@ -46,7 +46,7 @@ body {
     #sidebar {
     float: left;
     width: 158px;
-    background-color: lightgray;
+    background-color: gray;
     text-align: center;
     font-size: 18px;
      padding: 20px;  
@@ -76,6 +76,7 @@ body {
         padding: 10px;
         border-right: 2px dotted #444444;
         opacity: 0.8;
+        border-radius: 10px;
     }
     
     .option:hover
@@ -96,6 +97,8 @@ body {
     font-size: 18px;
     height: 25px;
     border-bottom: 2px dotted #444444;
+    border-radius: 10px;
+    color: black;
     }
     
     .optionL:hover {
@@ -116,12 +119,6 @@ body {
         background-color: #128870;
     }
 
-    #glowna
-    {
-        background-color: #128870;
-        opacity: 0,8;
-    }
-
     a
     {
        text-decoration: none;
@@ -133,4 +130,15 @@ body {
         display: flex;
         flex-direction: row;
     }
-    
+
+    #black
+    {
+        background-color: #f36742;
+        border-radius: 10px;
+    }
+
+    .gallery
+    {
+        padding: 5px;
+        border-style: double;
+    }
